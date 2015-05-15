@@ -5,3 +5,4 @@
 
 *html
 *.RData
+.DS_Store
